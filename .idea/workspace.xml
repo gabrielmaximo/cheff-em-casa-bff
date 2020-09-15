@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c3e9a6-87f0-4487-a542-70bb392fd867" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="93c3e9a6-87f0-4487-a542-70bb392fd867" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +96,7 @@
       <workItem from="1600025239714" duration="7084000" />
       <workItem from="1600126709784" duration="1597000" />
       <workItem from="1600128906355" duration="4000" />
+      <workItem from="1600129388685" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="fix code controllers, builders and services.">
       <created>1600020093761</created>
